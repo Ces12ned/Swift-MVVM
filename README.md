@@ -1,2 +1,2 @@
-# Swift_VIPER
-A basic template of VIPER in Swift. 
+# Swift_MVVM
+A basic template of MVVM in Swift. 
