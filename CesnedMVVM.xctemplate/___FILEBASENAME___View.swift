@@ -10,7 +10,7 @@
 
 import SwiftUI
 
-private struct ___VARIABLE_productName:identifier___View: View {
+struct ___VARIABLE_productName:identifier___View: View {
     
    @StateObject private var viewModel = ___VARIABLE_productName:identifier___ViewModel()
 

@@ -10,6 +10,6 @@
 
 import Foundation
 
-private struct ___VARIABLE_productName:identifier___Model{
+struct ___VARIABLE_productName:identifier___Model{
     
 }

@@ -13,7 +13,7 @@ import SwiftUI
 
 extension ___VARIABLE_productName:identifier___View{
 @MainActor
-    final private class ___VARIABLE_productName:identifier___ViewModel: ObservableObject {
+    final class ___VARIABLE_productName:identifier___ViewModel: ObservableObject {
         
         
         
