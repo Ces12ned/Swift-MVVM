@@ -13,9 +13,13 @@ import SwiftUI
 
 extension ___VARIABLE_productName:identifier___View{
 @MainActor
-    final class ___VARIABLE_productName:identifier___ViewModel: ObservableObject {
+    final class ViewModel: ObservableObject {
+        
+         //MARK: - Properties
         
         
+        
+        //MARK: - Methods
         
     }
 }
